@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablice", "Tablice\Tablice.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrukturyLinkowane", "StrukturyLinkowane\StrukturyLinkowane.csproj", "{6D3E9AB2-F455-4841-AAD2-BADF6C3912D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista", "Lista\Lista.csproj", "{1E256299-677B-4EE2-8A7D-D3BA22155E16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6D3E9AB2-F455-4841-AAD2-BADF6C3912D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D3E9AB2-F455-4841-AAD2-BADF6C3912D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D3E9AB2-F455-4841-AAD2-BADF6C3912D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E256299-677B-4EE2-8A7D-D3BA22155E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E256299-677B-4EE2-8A7D-D3BA22155E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E256299-677B-4EE2-8A7D-D3BA22155E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E256299-677B-4EE2-8A7D-D3BA22155E16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
